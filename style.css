@@ -368,4 +368,65 @@ footer {
   .footer-info {
     padding: 30px 0px;
   }
+  .tools-padre {
+    gap: 90px;
+  }
+  .tools-hijo img {
+    width: 35px;
+  }
+  .tools-hijo {
+    width: 40px;
+    padding: 0 10px;
+    gap: 10px;
+  }
+  .tools-hijo p {
+    font-size: 10px;
+    flex-direction: none;
+    width: 90px;
+  }
+  .info-productos p {
+    font-size: 16px;
+  }
+  .precios-padre {
+    gap: 5px;
+    padding: 0;
+    align-items: center;
+  }
+
+  .precios-hijo {
+    width: 120px;
+    height: 400px;
+  }
+  .precios-hijo h3 {
+    font-size: 15px;
+  }
+  .precios-hijo a {
+    font-size: 10px;
+    width: 80px;
+  }
+  .precios-hijo p {
+    font-size: 10px;
+  }
+  .caras-padre {
+    gap: 50px;
+  }
+  .caras-hijo {
+    width: 80px;
+    gap: 0;
+
+    justify-content: center;
+    align-items: center;
+  }
+  .caras-hijo img {
+    width: 100px;
+  }
+  .caras-hijo span {
+    font-size: 14px;
+  }
+  .bandera img {
+    width: 200px;
+  }
+  .bandera-info p {
+    font-size: 30px;
+  }
 }
